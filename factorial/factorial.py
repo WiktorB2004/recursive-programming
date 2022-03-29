@@ -6,4 +6,4 @@ def factorial(n):
 
 
 if __name__ == "__main__":
-    print(factorial(7))
+    print(f"Factorial from 7 = {factorial(7)}")
